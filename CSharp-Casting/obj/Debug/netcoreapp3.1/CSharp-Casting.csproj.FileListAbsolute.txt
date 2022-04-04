@@ -1,0 +1,17 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\CSharp-Casting.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\CSharp-Casting.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\CSharp-Casting.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\CSharp-Casting.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\CSharp-Casting.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\CSharp-Casting.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.csproj.CopyComplete
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Casting\CSharp-Casting\obj\Debug\netcoreapp3.1\CSharp-Casting.genruntimeconfig.cache
